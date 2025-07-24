@@ -12,5 +12,5 @@ Unlock the power of data with our new Smart Insight Platform – a complete solu
 <a href="https://www.linkedin.com/in/pourya-cykern-b00236240" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" alt="Linkedin" height="60" width="60" /></a>
 </p>
 <br><br>
-<p align="center">COPYRIGHT & DEVELOPER => POURYA-Cykern [MEAMARIAN]<br>
+<p align="center">COPYRIGHT & DEVELOPER => Pourya-Cykern [MEAMARIAN]<br>
 ✔👨‍💻👩‍💻👨‍💻👩‍💻✔</p>
